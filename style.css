@@ -1,0 +1,20 @@
+body{
+  font-family:'Times New Roman', Times, serif;
+  background: blanchedalmond;
+
+}
+#date, #time{
+  font-weight: 600;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.card-x{
+  border-radius: 50px;
+  background: #232c34;
+  box-shadow:  2px 2px 6px #1e252c,
+              -2px -2px 6px #28333c;
+}
+.card-text{
+  font-size: 1.25rem!important;
+}
